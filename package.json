@@ -1,0 +1,6 @@
+{
+  "name": "sms-tool",
+  "version": "1.0.0",
+  "description": "SMS API Backend",
+  "main": "api/sms.js"
+}
